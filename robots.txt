@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lucky-studio-full-stack-web-develop.vercel.app/sitemap.xml
